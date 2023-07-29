@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.963);
+    position: absolute;
+    width: 100vw;
+    height: 6rem;
+   
+    
+}
+.tag ul{
+    display: flex;
+    margin-left: 40rem;
+    
+}
+ .tag ul li{
+    list-style: none;
+    margin: 3rem;
+    font-size: larger;
+    cursor:pointer;
+    color: wheat;
+    
+ } 
+.nam h1{
+    margin-top: 3rem;
+    color: rgb(75, 114, 149);
+    margin-left: 7rem;
+    font-size: xx-large; 
+ }
+.tag ul li:hover{
+    text-decoration: underline;
+    color: white;
+}
+.first{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.944);
+    padding: 3rem;
+}
+.left{
+    margin-top: 20rem;
+    
+    font-size: xx-large;
+    color: whitesmoke;
+}
+.left h2{
+    margin-left: 20rem;
+}
+.left h5{
+    margin-left:25rem ;
+    text-decoration: underline;
+}
+.left p{
+    margin-left: 15rem;
+    font-size: large;
+    margin-top: 2rem;
+    color: brown;
+}
+.picture{
+    margin-top: 18rem;
+    margin-left: 18rem;
+    border: 2px rgb(176, 60, 60) solid;
+    height: 12.5rem;
+    
+    
+}
+.picture img{
+    border-radius: 90%;
+}
+.second{
+    background-color: rgba(0, 0, 0, 0.944);
+    display: flex;
+    padding: 2rem;
+}
+.pic2 img{
+    border-radius: 15rem;
+    margin-top: 7rem;
+    margin-right: 1rem;
+
+}
+.right{
+    margin-top: 7rem;
+    border: 2px rgb(204, 165, 240) solid;
+}
+.right h1{
+    color: wheat;
+    margin-left: 20rem;
+    margin-top: 5rem;
+}
+.right p{
+    color: white;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-top: 2rem;
+}
+.right h3{
+    color: rgba(227, 13, 13, 0.744);
+    font-family: cursive;
+    text-decoration: underline whitesmoke;
+    margin-left: 12rem;
+    margin-top: 2rem;
+    font-size: x-large;
+}
+.right ul{
+    margin-left: 13rem;
+    color: white;
+}
+.third{
+    display: flex;
+    background-color:  rgba(0, 0, 0, 0.944);;
+}
+.half1{
+    color: white;
+    margin-top: 3rem;
+    margin-left: 5rem;
+}
+.half2{
+    margin-top: 5rem;
+    
+}
+.half2 input{
+    margin-left: 30rem;
+    margin-bottom: 2rem;
+    padding: 0.3rem;
+    width: 30vw;
+}
+.half2 textarea{
+    margin-left: 30rem;
+    margin-bottom: 2rem;
+    padding: 0.3rem;
+    width: 30vw;
+    height: 3rem;
+}
+.half2 button{
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    padding: 0.3rem;
+    background-color: rgb(228, 106, 106);
+   border:2px wheat solid;
+   margin-left: 30rem;
+    
+}
+.half1 p span{
+    font-size: xx-large;
+    margin-right: 1rem;
+}
+.half1 p{
+
+    font-size: larger;
+}
+.blue-color{
+    color: blue;
+    border: 2px white solid;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin-right: 1rem;
+}
+.blue-color:hover{
+    background-color: white;
+    border: black;
+}
+.pink-color{
+    color: pink;
+    border: 2px white solid;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin-right: 1rem;
+}
+.pink-color:hover{
+    background-color: white;
+    border: black;
+}
+.social{
+    margin-top: 2rem;
+}
+.purple-color{
+    color: blueviolet;
+    border: 2px white solid;
+    border-radius: 1rem;
+    padding: 0.5rem;
+    margin-right: 1rem;
+}
+.purple-color:hover{
+    background-color: white;
+    border: black;
+}
+.foot{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 5rem;  
+}
+.half1 button{
+    margin-top: 2rem;
+    background-color: rgb(212, 216, 79);
+    padding: 0.5rem;
+    text-decoration: none;
+}
+.half1 button a{
+    text-decoration: none;
+
+}
+
+
+
+
+
